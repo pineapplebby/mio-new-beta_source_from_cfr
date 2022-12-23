@@ -1,0 +1,23 @@
+Summary for /www/javadecompilers/app/public/data/23.12.22/83341d14fb7f5a57c3156c458b6449c3/mio-new-beta.jar
+Decompiled with CFR 0.150
+
+
+org.json.simple.parser.Yylex
+----------------------------
+
+yylex()
+  Unable to fully structure code
+
+
+org.spongepowered.asm.mixin.refmap.ReferenceMapper
+----------------------------
+
+read(java.lang.String )
+  Loose catch block
+
+
+org.spongepowered.asm.lib.Type
+----------------------------
+
+getReturnType(java.lang.String )
+  Unable to fully structure code
